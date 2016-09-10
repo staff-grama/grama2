@@ -3,4 +3,4 @@ Aplicación online dedicada a la generación de lenguaje creativo y a su gamific
 
 
 
-NOTA: Por problemas en la subida de ficheros con git, se ha vaciado el repositorio. Todos los ficheros de Grama se pueden visualizar en el repositorio grama-1 (repositorio clonado del usuario creador de Grama).
+//NOTA: Por problemas en la subida de ficheros con git, se ha vaciado el repositorio. Todos los ficheros de Grama se pueden visualizar en el repositorio grama-1 (repositorio clonado del usuario creador de Grama).
